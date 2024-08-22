@@ -3,27 +3,28 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "BAT2301 Statistics for Business and Economics"
   sidebar:
     background: primary
-    # logo: "images/logo.png"
+    logo: "images/logo_new.png"
     pinned: true
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
-        text: GitHub
+        href: https://ianliu0313.github.io/BAT2301_Fall24/
+        text: Home Site
+      - icon: house-fill
+        href: https://canvas.trinity.edu/
+        text: Canvas Trinity University
     style: docked
     contents:
       - href: index.qmd
         text: Home
+      - href: syllabus.qmd
+        text: Syllabus
       - href: schedule.qmd
         text: Schedule
-      - href: materials.qmd
-        text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
-        text: Forum
-
+        
 format:
   html:
     theme: cosmo

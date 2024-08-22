@@ -1,5 +1,32 @@
 ---
-title: "Course Title"
+title: "BAT/ECON 2301 – Statistics for Business and Economics Syllabus"
 ---
 
-Course info & details here
+## Course Overview
+
+**Course Description**
+
+Welcome to BAT/ECON 2301, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The R programming language will be introduced and self-taught via [datacamp.com](datacamp.com), which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.
+
+## Class Meetings and Locations
+
+| Session # | Location | Time                   |
+|---------|----------|------------------------|
+| Session 3 | Richardson Center 319   | T/Th 12:45 PM - 2:00 PM |
+| Session 4 | Richardson Center 319   | T/Th 2:10 PM - 3:25 PM  |
+
+
+## Teaching Team 
+
+| Name                 | Office Hours   | Office Location    | Zoom |
+|----------------------|----------------|-------------|------|
+| Ian Liu              | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
+
+
+## DataCamp Learning
+
+
+| DataCamp                 | Join The Class   | Location    |
+|----------------------|----------------|-------------|------|
+| [datacamp.com](datacamp.com)              | [Click to Join](https://www.datacamp.com/groups/shared_links/9c0820d5af03090d41b43c7448d71d5cac9c852738fe60e727d2fb63bf90f6f9)   | It's a Virtual Classroom |
+
