@@ -21,7 +21,7 @@ By the end of this course, students will be able to:
 - Utilize Python for data analysis and visualization.
 - Add a couple of highlighted points (programming skills, statistical inference, data modeling, and/or programming) to your resume.
 - Handle basic statistics and probability-related interview questions.
-- Obtain 2-3 certificates in R Programming and Data Processing issued by datacamp.com which you can put on your resume.
+- Obtain 2-3 certificates in Python Programming and Data Processing issued by datacamp.com which you can put on your resume.
   
 ## Required Textbook and Computer Programming Tools
 
@@ -170,7 +170,7 @@ In these 9 homeworks, you will apply what you've learned during the lecture and 
 
 ### Datacamp Practice
 
-Due to the limited time we are having in class, we won't be able to cover Python Programming in class. However, since it's one of the most important and popular programming languadges, we will learning Python through DataCamp.com, which is an online learning platform. Click the link here to join the classroom Datacamp and complete all the assigned courses by the end of the semester. Each course only takes a couple of hours. Don't wait until the last day of the semester. I will be available to answer any questions regarding joining the classroom or programming! Happy programming. Python is easy and fun learn.
+Due to the limited time we are having in class, we won't be able to cover Python Programming in class. However, since it's one of the most important and popular programming languadges, we will learning Python through DataCamp.com, which is an online learning platform. Click the link [Datacamp](https://datacamp.com/) to join the classroom Datacamp and complete all the assigned courses by the end of the semester. Each course only takes a couple of hours. Don't wait until the last day of the semester. I will be available to answer any questions regarding joining the classroom or programming! Happy programming. Python is easy and fun learn.
 
 
 ### Accomondations
