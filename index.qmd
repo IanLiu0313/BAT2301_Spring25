@@ -18,9 +18,9 @@ Welcome to BAT/ECON 2301, an introductory course on statistics and probability t
 
 ## Teaching Team 
 
-| Name                 | Office Hours   | Office Location    | Zoom |
-|----------------------|----------------|-------------|------|
-| Ian Liu              | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
+| Name        |  Email | Phone | Office Hours   | Office Location    | Zoom |
+|-------------|--------|-------|----------------|-------------|------|
+| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | Mon-Thur  4PM-5PM   | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/95386383129)    |
 
 
 ## DataCamp Learning
@@ -28,5 +28,5 @@ Welcome to BAT/ECON 2301, an introductory course on statistics and probability t
 
 | DataCamp                 | Join The Class   | Location    |
 |----------------------|----------------|-------------|------|
-| [datacamp.com](https://datacamp.com)              | [Click to Join](https://www.datacamp.com/groups/shared_links/9c0820d5af03090d41b43c7448d71d5cac9c852738fe60e727d2fb63bf90f6f9)   | It's a Virtual Classroom |
+| [https://datacamp.com](https://datacamp.com)              | [Click to Join](https://www.datacamp.com/groups/shared_links/9c0820d5af03090d41b43c7448d71d5cac9c852738fe60e727d2fb63bf90f6f9)   | It's a Virtual Classroom |
 
