@@ -12,8 +12,8 @@ Welcome to BAT/ECON 2301, an introductory course on statistics and probability t
 
 | Session # | Location | Time                   |
 |---------|----------|------------------------|
-| Session 3 | Richardson Center 319   | T/Th 12:45 PM - 2:00 PM |
-| Session 4 | Richardson Center 319   | T/Th 2:10 PM - 3:25 PM  |
+| Session 3 | Richardson Center 319  | T/Th 12:45 PM - 2:00 PM |
+| Session 4 | Richardson Center 319  | T/Th 2:10 PM - 3:25 PM  |
 
 
 ## Teaching Team 
