@@ -7,7 +7,7 @@ jupyter: python3
 
 ```{python}
 #| label: tbl-a
-#| tbl-cap: Fall24 Class Schedule
+#| tbl-cap: Spring25 Class Schedule
 #| echo: false
 
 from IPython.display import Markdown
