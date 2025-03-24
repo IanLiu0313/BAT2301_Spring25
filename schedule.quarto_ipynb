@@ -1,0 +1,52 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"Schedule\"\n",
+        "\n",
+        "jupyter: python3\n",
+        "---"
+      ],
+      "id": "865d0cdf"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "#| label: tbl-a\n",
+        "#| tbl-cap: Spring25 Class Schedule\n",
+        "#| echo: false\n",
+        "\n",
+        "from IPython.display import Markdown\n",
+        "from tabulate import tabulate\n",
+        "import pandas as pd \n",
+        "\n",
+        "with open('Spring25_Schedule.csv', 'rb') as f:\n",
+        "    tb = pd.read_csv(f, keep_default_na=False)\n",
+        "\n",
+        "\n",
+        "Markdown(tabulate(\n",
+        "    tb, \n",
+        "    tb.head(),\n",
+        "    tablefmt=\"grid\"\n",
+        "))"
+      ],
+      "id": "tbl-a",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/ianliu/opt/anaconda3/envs/uva_dl/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}

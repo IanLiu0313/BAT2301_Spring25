@@ -1,11 +1,13 @@
----
-title: "Schedule"
-
-jupyter: python3
----
-
-
-```{python}
+# type: ignore
+# flake8: noqa
+#
+#
+#
+#
+#
+#
+#
+#
 #| label
 #| tbl-cap: Spring25 Class Schedule
 #| echo: false
@@ -23,4 +25,6 @@ Markdown(tabulate(
     tb.head(),
     tablefmt="grid"
 ))
-```
+#
+#
+#
