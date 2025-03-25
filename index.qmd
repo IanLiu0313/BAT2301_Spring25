@@ -28,5 +28,5 @@ Welcome to BAT/ECON 2301, an introductory course on statistics and probability t
 
 | DataCamp                 | Join The Class   | Location    |
 |----------------------|----------------|-------------|------|
-| [https://datacamp.com](https://datacamp.com)              | [Click to Join](https://www.datacamp.com/groups/shared_links/095302a5c4f905266add3d8200e439c1c6f89a19fc6bc9ecae7948265565450d)   | It's a Virtual Classroom |
+| [https://datacamp.com](https://datacamp.com)              | [Click to Join](https://www.datacamp.com/groups/shared_links/3d260617360eca86f6eda7b9b2715d6350e75f1fc9986db3c41d89213c088879)   | It's a Virtual Classroom |
 
