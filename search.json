@@ -1,5 +1,65 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Class Date\nTopics\nAttendance\n\n\n\n\n0\nWednesday, January 15, 2025\nCourse Introduction, Syllabus\nSubmit Your Notes or An Quiz\n\n\n1\nMonday, January 20, 2025\nMLK Holiday\nN/A\n\n\n2\nWednesday, January 22, 2025\nProbability and Statistics Applications and Examples\nSubmit Your Notes or An Quiz\n\n\n3\nMonday, January 27, 2025\nDescriptive Statistics: Data Types, Data Visualization and Meanings, Measures of Association\nSubmit Your Notes or An Quiz\n\n\n4\nWednesday, January 29, 2025\nDescriptive Statistics: Measures of Location, Distribution Shape, Outliers\nSubmit Your Notes or An Quiz\n\n\n5\nMonday, February 3, 2025\nDescriptive Statistics: Measures of Variability, Measures of Association Between Two Variables\nSubmit Your Notes or An Quiz\n\n\n6\nWednesday, February 5, 2025\nIntroduction to Probability: Counting Rules, Randomness\nSubmit Your Notes or An Quiz\n\n\n7\nMonday, February 10, 2025\nIntroduction to Probability: Multiplication Law, Addition Law\nSubmit Your Notes or An Quiz\n\n\n8\nWednesday, February 12, 2025\nIntroduction to Probability: Independent and Mutually Exclusive Events\nSubmit Your Notes or An Quiz\n\n\n9\nMonday, February 17, 2025\nIntroduction to Probability: Bayes’ Theorem\nSubmit Your Notes or An Quiz\n\n\n10\nWednesday, February 19, 2025\nExam 1 Review\nSubmit Your Notes or An Quiz\n\n\n11\nMonday, February 24, 2025\nExam 1\nN/A\n\n\n12\nWednesday, February 26, 2025\nDiscrete Probability: Variance, Covariance and Finance\nSubmit Your Notes or An Quiz\n\n\n13\nMonday, March 3, 2025\nDiscrete Probability: Discrete Distributions\nSubmit Your Notes or An Quiz\n\n\n14\nWednesday, March 5, 2025\nNo Class\nN/A\n\n\n15\nMonday, March 10, 2025\nSpring Break - Have Fun!\nN/A\n\n\n16\nWednesday, March 12, 2025\nSpring Break - Have Fun!\nN/A\n\n\n17\nMonday, March 17, 2025\nContinuous Probability: Uniform Distribution\nSubmit Your Notes or An Quiz\n\n\n18\nWednesday, March 19, 2025\nContinuous Probability: Normal Distributions\nSubmit Your Notes or An Quiz\n\n\n19\nMonday, March 24, 2025\nContinuous Probability: Continuous Distributions Lab\nSubmit Your Notes or An Quiz\n\n\n20\nWednesday, March 26, 2025\nExam 2 Review\nSubmit Your Notes or An Quiz\n\n\n21\nMonday, March 31, 2025\nExam 2\nN/A\n\n\n22\nWednesday, April 2, 2025\nSampling and Sampling Distributions: Sampling Methods, Point Estimate\nSubmit Your Notes\n\n\n23\nMonday, April 7, 2025\nInterval Estimation: Population Mean, Sample Size and Proportion\nSubmit Your Notes\n\n\n24\nWednesday, April 9, 2025\nInterval Estimation: Confidence Intervals\nSubmit Your Notes\n\n\n25\nMonday, April 14, 2025\nHypothesis Test: Null and Alternative Hypotheses and Error Types\nSubmit Your Notes\n\n\n26\nWednesday, April 16, 2025\nHypothesis Test: Null and Alternative Hypotheses and Error Types\nSubmit Your Notes\n\n\n27\nMonday, April 21, 2025\nHypothesis Testing Lab\nSubmit Your Notes\n\n\n28\nWednesday, April 23, 2025\nSimple Linear Regression\nSubmit Your Notes\n\n\n29\nMonday, April 28, 2025\nUsing Python for Linear Regression and Any Statistics Calculations\nSubmit Your Notes\n\n\n30\nWednesday, April 30, 2025\nFinal Exam Review\nSubmit Your Notes\n\n\n31\nMonday, May 5, 2025\nReading Day\nN/A\n\n\n32\nSaturday, May 10, 2025\nCommon Final Exam(Time: 3:30-6:30PM, Location TBD)",
+    "crumbs": [
+      "Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
+    "section": "",
+    "text": "Course Description\nWelcome to BAT/ECON 2301, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The Python programming language will be introduced and self-taught via datacamp.com, which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
+    "section": "",
+    "text": "Course Description\nWelcome to BAT/ECON 2301, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The Python programming language will be introduced and self-taught via datacamp.com, which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#class-meetings-and-locations",
+    "href": "index.html#class-meetings-and-locations",
+    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
+    "section": "Class Meetings and Locations",
+    "text": "Class Meetings and Locations\n\n\n\nSection #\nLocation\nTime\n\n\n\n\nSection 1\nRichardson Center 320\nM/W 1:05 PM - 2:20 PM\n\n\nSection 2\nRichardson Center 320\nM/W 2:30 PM - 3:45 PM",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-team",
+    "href": "index.html#teaching-team",
+    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
+    "section": "Teaching Team",
+    "text": "Teaching Team\n\n\n\nName\nEmail\nPhone\nOffice Hours\nOffice Location\nZoom\n\n\n\n\n\nIan Liu\nyliu2@trinity.edu\n210-999-7635\nT & Th 4-5PM & F 2-4PM\nChapman 416\nZoom",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#datacamp-learning",
+    "href": "index.html#datacamp-learning",
+    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
+    "section": "DataCamp Learning",
+    "text": "DataCamp Learning\n\n\n\nDataCamp\nJoin The Class\nLocation\n\n\n\n\n\nhttps://datacamp.com\nClick to Join\nIt’s a Virtual Classroom",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Syllabus",
@@ -167,66 +227,6 @@
     "text": "Important dates\n\nJan 10: Add/Drop Begins\nJan 15: Classes Begin\nJan 20: MLK Holiday\nJan 23: Add/Drop Ends\nFeb 05: Last Day Opt Pass/Fail\nMar 08-16: Spring Break\nApr 02: Last Day to Withdraw With a W\nApr 18: Class Recess\nSaturday 3:30-6:30PM May 10: Final Exam(Location TBA)",
     "crumbs": [
       "Syllabus"
-    ]
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Table 1: Spring25 Class Schedule\n\n\n\n\n\n\n\n\n\n\n\n\n\nClass Date\nTopics\nAttendance\n\n\n\n\n0\nWednesday, January 15, 2025\nCourse Introduction, Syllabus\nSubmit Your Notes or An Quiz\n\n\n1\nMonday, January 20, 2025\nMLK Holiday\nN/A\n\n\n2\nWednesday, January 22, 2025\nProbability and Statistics Applications and Examples\nSubmit Your Notes or An Quiz\n\n\n3\nMonday, January 27, 2025\nDescriptive Statistics: Data Types, Data Visualization and Meanings, Measures of Association\nSubmit Your Notes or An Quiz\n\n\n4\nWednesday, January 29, 2025\nDescriptive Statistics: Measures of Location, Distribution Shape, Outliers\nSubmit Your Notes or An Quiz\n\n\n5\nMonday, February 3, 2025\nDescriptive Statistics: Measures of Variability, Measures of Association Between Two Variables\nSubmit Your Notes or An Quiz\n\n\n6\nWednesday, February 5, 2025\nIntroduction to Probability: Counting Rules, Randomness, Addition Law, Conditional Probability\nSubmit Your Notes or An Quiz\n\n\n7\nMonday, February 10, 2025\nIntroduction to Probability: Random Variables, Expected Value\nSubmit Your Notes or An Quiz\n\n\n8\nWednesday, February 12, 2025\nIntroduction to Probability: Bayes’ Theorem\nSubmit Your Notes or An Quiz\n\n\n9\nMonday, February 17, 2025\nDiscrete Probability: Variance, Covariance and Finance\nSubmit Your Notes or An Quiz\n\n\n10\nWednesday, February 19, 2025\nDiscrete Probability: Discrete Distributions\nSubmit Your Notes or An Quiz\n\n\n11\nMonday, February 24, 2025\nExam 1 Review\nN/A\n\n\n12\nWednesday, February 26, 2025\nExam 1\nN/A\n\n\n13\nMonday, March 3, 2025\nContinuous Probability: Uniform and Normal Distributions\nSubmit Your Notes or An Quiz\n\n\n14\nWednesday, March 5, 2025\nNo Class\nN/A\n\n\n15\nMonday, March 10, 2025\nSpring Break - Have Fun!\nN/A\n\n\n16\nWednesday, March 12, 2025\nSpring Break - Have Fun!\nN/A\n\n\n17\nMonday, March 17, 2025\nContinuous Probability: Normal Distributions Lab\nSubmit Your Notes or An Quiz\n\n\n18\nWednesday, March 19, 2025\nSampling and Sampling Distributions: Sampling Methods, Point Estimate\nSubmit Your Notes or An Quiz\n\n\n19\nMonday, March 24, 2025\nSampling and Sampling Distributions Lab\n\n\n\n20\nWednesday, March 26, 2025\nExam 2 Review\n\n\n\n21\nMonday, March 31, 2025\nExam 2\n\n\n\n22\nWednesday, April 2, 2025\nInterval Estimation: Population Mean, Sample Size and Proportion\nSubmit Your Notes\n\n\n23\nMonday, April 7, 2025\nInterval Estimation: Confidence Intervals\nSubmit Your Notes\n\n\n24\nWednesday, April 9, 2025\nHypothesis Test: Null and Alternative Hypotheses and Error Types\nSubmit Your Notes\n\n\n25\nMonday, April 14, 2025\nHypothesis Test: Null and Alternative Hypotheses and Error Types\nSubmit Your Notes\n\n\n26\nWednesday, April 16, 2025\nHypothesis Test Lab\nSubmit Your Notes\n\n\n27\nMonday, April 21, 2025\nSimple Linear Regression Basics Residual Analysis\nSubmit Your Notes\n\n\n28\nWednesday, April 23, 2025\nSimple Linear Regression: Model Assumption\nSubmit Your Notes\n\n\n29\nMonday, April 28, 2025\nUsing Python for Linear Regression and Any Statistics Calculations\nSubmit Your Notes\n\n\n30\nWednesday, April 30, 2025\nFinal Exam Review\n\n\n\n31\nMonday, May 5, 2025\nReading Day\n\n\n\n32\nTBD\nCommon Final Exam",
-    "crumbs": [
-      "Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
-    "section": "",
-    "text": "Course Description\nWelcome to BAT/ECON 2301, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The Python programming language will be introduced and self-taught via datacamp.com, which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#course-overview",
-    "href": "index.html#course-overview",
-    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
-    "section": "",
-    "text": "Course Description\nWelcome to BAT/ECON 2301, an introductory course on statistics and probability tailored for applications in business and economics. In this course, you will delve into the application of various statistical and probabilistic techniques within the realms of business and economics. Topics include data descriptions and their statistical significance, probability and calculations, counting rules, distributions, sampling, hypothesis testing, inferences, simple linear regression, and most importantly, why and how do we want to use these tools to solve real-world questions. We will ensure a comprehensive understanding and implementation of these techniques. The Python programming language will be introduced and self-taught via datacamp.com, which is an interactive learning platform specializing in coding and programming skills, tailored for both beginners and experienced professionals seeking to enhance their expertise in data science and analytics.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#class-meetings-and-locations",
-    "href": "index.html#class-meetings-and-locations",
-    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
-    "section": "Class Meetings and Locations",
-    "text": "Class Meetings and Locations\n\n\n\nSection #\nLocation\nTime\n\n\n\n\nSection 1\nRichardson Center 320\nM/W 1:05 PM - 2:20 PM\n\n\nSection 2\nRichardson Center 320\nM/W 2:30 PM - 3:45 PM",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#teaching-team",
-    "href": "index.html#teaching-team",
-    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
-    "section": "Teaching Team",
-    "text": "Teaching Team\n\n\n\nName\nEmail\nPhone\nOffice Hours\nOffice Location\nZoom\n\n\n\n\n\nIan Liu\nyliu2@trinity.edu\n210-999-7635\nT & Th 4-5PM & F 2-4PM\nChapman 416\nZoom",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#datacamp-learning",
-    "href": "index.html#datacamp-learning",
-    "title": "BAT/ECON 2301 – Statistics for Business and Economics Syllabus",
-    "section": "DataCamp Learning",
-    "text": "DataCamp Learning\n\n\n\nDataCamp\nJoin The Class\nLocation\n\n\n\n\n\nhttps://datacamp.com\nClick to Join\nIt’s a Virtual Classroom",
-    "crumbs": [
-      "Home"
     ]
   }
 ]
